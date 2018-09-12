@@ -1,0 +1,4 @@
+Un tipo de archivo en el que todos los valores estan delimitados por comas.;csv
+Conjunto de instrucciones entendibles por el ordenador que permiten realizar un trabajo o resolver un problema.;programa
+Es un lenguaje de programacion que se utiliza para el desarrollo de paginas de Internet. Se trata de la siglas que corresponden a HyperText Markup Language;html
+Es un lenguaje de codigo abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.;php
